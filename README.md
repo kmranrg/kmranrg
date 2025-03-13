@@ -9,7 +9,6 @@
 
 🚀 **AI Researcher | PhD Student | Open-Source Enthusiast**   
 🎯 Research: **Neural Network | Computer Vision | Controls**  
-📍 NM, USA 
 
 <br>
 
