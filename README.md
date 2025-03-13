@@ -34,11 +34,6 @@
 🚴 Mountain biking enthusiast—always in motion!  
 🌱 Enjoy **peace of nature**.  
 
-<br>
-
-## 📫 Let's Connect!  
-[[myWebsite](https://kmranrg.com)]  [[LinkedIn](https://www.linkedin.com/in/kmranrg/)] [[ORCID](https://orcid.org/0009-0008-8728-0362)] [[Instagram](https://instagram.com/kmranrg)]
-
 <br><br>
 
 <p align="center">💡 <b>AI is <s>replacing</s> amplifying the human potential</b></p>
