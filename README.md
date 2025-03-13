@@ -21,7 +21,7 @@
 
 <br>
 
-## 🏆 Achievements & Awards  
+## 🏆 Honors & Awards  
 🥇 **Smart India Hackathon Winner** – Recognized by the **Government of India**  
 🏅 **Kubernetes Badge** – by **Google**  
 🎖️ **Swift Teacher Badge** – by **Apple**  
