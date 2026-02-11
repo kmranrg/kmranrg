@@ -33,7 +33,10 @@
 🚴 Mountain biking enthusiast—always in motion!  
 🌱 Enjoy **peace of nature**.  
 
-<br><br>
+<br>
 
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=vinitshahdeo&theme=darcula&hide_border=true&background=FFFFFF00">
+
+<br><br>
 <p align="center">💡 <b>AI is <s>replacing</s> amplifying the human potential</b></p>
 <img src="https://github.com/kmranrg/kmranrg/blob/main/fast_loading_bar.gif">
