@@ -35,7 +35,9 @@
 
 <br>
 
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=kmranrg&theme=darcula&hide_border=true&background=FFFFFF00">
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=kmranrg&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
 <br><br>
 <p align="center">💡 <b>AI is <s>replacing</s> amplifying the human potential</b></p>
