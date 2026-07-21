@@ -1,8 +1,6 @@
 <img src="https://github.com/kmranrg/kmranrg/blob/main/fast_loading_bar.gif"><br><br>
 <img src="https://github.com/kmranrg/kmranrg/blob/main/ka_hello_world.png" />
 
-# Kumar Anurag
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=PhD+Research+Scholar;Machine+Learning+,+Controls"></a>
 </p>
